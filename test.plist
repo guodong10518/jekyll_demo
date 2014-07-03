@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://download.iappk.com:443/version/downloadFile.do?id=b5f999da-943e-4c26-8da4-eb20ee0c2360</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>https://download.iappk.com:443/version/downloadFile.do?id=a3e942ee-9494-45f6-94e7-f2fb97d4cbc8</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>a3e942ee-9494-45f6-94e7-f2fb97d4cbc8</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.xiangchuan.dangjianwang</string>
+          <key>bundle-version</key>
+          <string>5</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>dangjianwang</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
